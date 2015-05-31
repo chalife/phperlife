@@ -1,0 +1,44 @@
+/*@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900');
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,600');*/
+
+body {font-family:'Source Sans Pro',sans-serif; color:#555; background-color:#f9f9f9;}
+a {color:#2D3642; text-decoration:none;}
+a:hover {text-decoration:none; color:#20b2aa;}
+
+#tinymce {width:750px; font-size:18px;}
+#tinymce img, .widget img {display:inline-block; height:auto; max-width:100%; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
+#tinymce #post-title, .post-title {font-family:'Open Sans',sans-serif; font-weight:600; font-size:36px; line-height:1.4em; margin-top:0;}
+#tinymce h1, #tinymce h2, #tinymce h3, #tinymce h4, #tinymce h5, #tinymce h6 {font-family:'Open Sans',sans-serif; font-weight:600; margin-bottom:30px;}
+#tinymce h2 {font-size:28px}
+#tinymce h3 {font-size:25px;}
+#tinymce h4 {font-size:23px;}
+#tinymce h5 {font-size:21px;}
+#tinymce h6 {font-size:18px;}
+#tinymce p {margin-bottom:30px; line-height:1.45em;}
+#tinymce p cite {font-style:italic;}
+#tinymce ul {margin-bottom:30px; padding:0;}
+#tinymce ul ul {margin-bottom:0;}
+#tinymce li {margin:0 0 5px 18px;}
+#tinymce a {color:#444; border-bottom:1px dotted #aaa;}
+#tinymce a:hover {text-decoration:none;}
+#tinymce blockquote {background-color:#f7f7f7; color:#777; margin:0; padding:30px; border-left:6px solid #aaa;}
+#tinymce blockquote p {margin:0;}
+#tinymce blockquote cite {display:block; font-style:italic; color:#aaa; font-size:16px; margin-top:10px;}
+#tinymce table {width:100%;}
+#tinymce table thead th {background-color:#f0f0f0; border-bottom:2px solid #ddd; padding:10px 10px 10px 20px;}
+#tinymce table td, #tinymce table tbody th {background-color:#f7f7f7; padding:10px 10px 10px 20px; border:1px solid #eee; font-weight:400;}
+#tinymce dt {font-weight:bold;}
+#tinymce dd {margin:0 0 15px 0;}
+#tinymce.post-format-aside .post-title, .format-aside #post-title {font-size:20px; margin-bottom:0;}
+#tinymce.post-format-aside p {font-size:16px;}
+#tinymce.post-format-aside .attachment-aside {margin-bottom:30px;}
+#tinymce.post-format-quote {background-color:#f7f7f7; color:#777; padding:10px 30px 30px 30px; border-left:6px solid #aaa; margin-bottom:40px;}
+#tinymce.post-format-quote p {font-size:24px; line-height:1.4em;}
+.attachment-featured {margin-bottom:30px;}
+.wp-caption, .gallery-caption {max-width:97%; font-size:14px;}
+.wp-caption-text {color:#aaa; margin-top:2px;}
+.aligncenter {text-align:center;}
+.alignleft {float:left; margin-right:15px;}
+.alignright {float:right; margin-left:15px;}
+cite {border:0;}
+td {font-size:18px; color:#555;}
